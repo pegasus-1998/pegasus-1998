@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegasus-1998&theme=cobalt&show_icons=true)
 
-<table style="border: 'none'">
-  <tr style="border: none">
-    <td style="border: none">
+<table>
+  <tr>
+    <td>
       <p>- 🔭 I’m currently working on work</p>
       <p>- 🌱 I’m currently learning vue</p>
       <p>- 🤔 I need your Star</p>
@@ -29,16 +29,14 @@ Here are some ideas to get you started:
       <p>- 😄 Pronouns: js vue</p>
       <p>- ⚡ Fun fact: write the code</p>
     </td>
-    <td style="border: none">
+    <td>
       <a href="https://github.com/pegasus-1998/github-readme-stats">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" border='none' />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact&hide_border=true"/>
       </a>
     </td>
   </tr>
 </table>
 
-<p align='left'>1</p>
-<p align='right'>2</p>
 
 
 
