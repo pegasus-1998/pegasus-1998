@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on work</p>
-      <p>- 🌱 I’m currently learning vue</p>
-      <p>- 🤔 I need your Star</p>
-      <p>- 📫 Reach me: 2226984343@qq.com</p>
-      <p>- 😄 Pronouns: js vue</p>
-      <p>- ⚡ Fun fact: write the code</p>
+      <p>🔭 I’m currently working on work</p>
+      <p>🌱 I’m currently learning vue</p>
+      <p>🤔 I need your Star</p>
+      <p>📫 Reach me: 2226984343@qq.com</p>
+      <p>😄 Pronouns: js vue</p>
+      <p>⚡ Fun fact: write the code</p>
     </td>
     <td>
       <a href="https://github.com/pegasus-1998/github-readme-stats">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
      <p><code>email: 2226984343@qq.com</code></p>
      <p><code>vx: pegasus-1998</code></p>
      <p><code>T stack: js vue react ts node</code></p>
-     <p><code>profession: Web front-end engineer</code></p>
+     <p><code>profession: Web front-end</code></p>
     </td>
   </tr>
 </table>
