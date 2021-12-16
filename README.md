@@ -47,6 +47,7 @@ Here are some ideas to get you started:
      <p><code>email: 2226984343@qq.com</code></p>
      <p><code>vx: pegasus-1998</code></p>
      <p><code>T stack: js vue react ts node</code></p>
+     <p><code>profession: Web front-end engineer</code></p>
     </td>
   </tr>
 </table>
