@@ -43,8 +43,10 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-     <p><code>-name: pegasus</code></p>
-     <p>-email: 2226984343@qq.com</p>
+     <p><code>name: pegasus</code></p>
+     <p><code>email: 2226984343@qq.com</code></p>
+     <p><code>vx: pegasus-1998</code></p>
+     <p><code>technology stack: js vue react ts node</code></p>
     </td>
   </tr>
 </table>
