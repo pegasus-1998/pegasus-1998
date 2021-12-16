@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegasus-1998&theme=cobalt&show_icons=true)
 
-<table border='none'>
-  <tr>
+<table style="border: 'none'">
+  <tr style="border: none">
     <td>
       <p>- 🔭 I’m currently working on work</p>
       <p>- 🌱 I’m currently learning vue</p>
