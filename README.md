@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: write the code
 
 <a href="https://github.com/pegasus-1998/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
 </a>
 
