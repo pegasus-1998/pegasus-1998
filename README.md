@@ -37,6 +37,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<p align='left'>1</p>
+<p align='right'>2</p>
+
 
 
 
