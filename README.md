@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      - 🔭 I’m currently working on work
+      <p>- 🔭 I’m currently working on work</p>
       - 🌱 I’m currently learning vue
       - 🤔 I need your Star
       - 📫 How to reach me: 2226984343@qq.com
