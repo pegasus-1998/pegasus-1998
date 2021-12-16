@@ -32,7 +32,7 @@ Here are some ideas to get you started:
       <p>🔭 I’m currently working on work</p>
       <p>🌱 I’m currently learning vue</p>
       <p>🤔 I need your Star</p>
-      <p>📫 Reach me: right content</p>
+      <p>📫 Reach me: right</p>
       <p>😄 Pronouns: js vue</p>
       <p>⚡ Fun fact: write the code</p>
     </td>
