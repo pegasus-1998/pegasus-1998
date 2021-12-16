@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-pegasus-1998
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegasus-1998&theme=cobalt&show_icons=true)
 
-年后
+- 🔭 I’m currently working on work
+- 🌱 I’m currently learning vue
+- 🤔 I need your Star
+- 📫 How to reach me: 2226984343@qq.com
+- 😄 Pronouns: js vue
+- ⚡ Fun fact: write the code
 
 <a href="https://github.com/pegasus-1998/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
