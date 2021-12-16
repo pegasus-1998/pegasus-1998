@@ -23,3 +23,7 @@ pegasus-1998
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact)](https://github.com/pegasus-1998/github-readme-stats)
 
+<a href="https://github.com/pegasus-1998/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?pegasus-1998&repo=github-readme-stats" />
+</a>
+
