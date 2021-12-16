@@ -23,15 +23,15 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <p>- 🔭 I’m currently working on work</p>
-      - 🌱 I’m currently learning vue
-      - 🤔 I need your Star
-      - 📫 How to reach me: 2226984343@qq.com
-      - 😄 Pronouns: js vue
-      - ⚡ Fun fact: write the code
+      <p>- 🌱 I’m currently learning vue</p>
+      <p>- 🤔 I need your Star</p>
+      <p>- 📫 How to reach me: 2226984343@qq.com</p>
+      <p>- 😄 Pronouns: js vue</p>
+      <p>- ⚡ Fun fact: write the code</p>
     </td>
     <td>
       <a href="https://github.com/pegasus-1998/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
       </a>
     </td>
   </tr>
