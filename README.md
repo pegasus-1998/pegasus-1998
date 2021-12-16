@@ -21,7 +21,7 @@ pegasus-1998
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegasus-1998&theme=cobalt&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact)](https://github.com/pegasus-1998/github-readme-stats)
+年后
 
 <a href="https://github.com/pegasus-1998/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
