@@ -19,14 +19,24 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegasus-1998&theme=cobalt&show_icons=true)
 
-- 🔭 I’m currently working on work
-- 🌱 I’m currently learning vue
-- 🤔 I need your Star
-- 📫 How to reach me: 2226984343@qq.com
-- 😄 Pronouns: js vue
-- ⚡ Fun fact: write the code
+<table>
+  <tr>
+    <td>
+      - 🔭 I’m currently working on work
+      - 🌱 I’m currently learning vue
+      - 🤔 I need your Star
+      - 📫 How to reach me: 2226984343@qq.com
+      - 😄 Pronouns: js vue
+      - ⚡ Fun fact: write the code
+    </td>
+    <td>
+      <a href="https://github.com/pegasus-1998/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/pegasus-1998/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-1998&layout=compact" />
-</a>
+
+
 
