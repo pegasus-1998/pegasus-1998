@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegasus-1998&theme=cobalt&show_icons=true)
+
 
 ### Hi there 👋
 
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 pegasus-1998
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pegasus-1998&theme=cobalt&show_icons=true)
 
