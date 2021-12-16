@@ -43,7 +43,9 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      1
+      **About me**
+     <p>- name: pegasus</p>
+     <p>-email: 2226984343@qq.com</p>
     </td>
   </tr>
 </table>
