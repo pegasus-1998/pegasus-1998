@@ -45,7 +45,7 @@ Here are some ideas to get you started:
      <p><code>name: pegasus</code></p>
      <p><code>email: 2226984343@qq.com</code></p>
      <p><code>vx: pegasus-1998</code></p>
-     <p><code>Technology stack: vue react</code></p>
+     <p><code>hobby: vue react ts</code></p>
      <p><code>profession: Web front-end</code></p>
     </td>
   </tr>
