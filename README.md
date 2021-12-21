@@ -2,6 +2,7 @@
 
  - 🔥 [天马导航](http://pgs98.com)
  - 🔥 [vue2-tem](https://github.com/pegasus-1998/vue2-taobao)
+ - 🔥 [vue3-setup](https://github.com/pegasus-1998/vue3-setup)
 <!--
 **pegasus-1998/pegasus-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
